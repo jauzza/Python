@@ -1,0 +1,11 @@
+ANTWOORDEN PROGRAMMEERCONCEPTEN 
+
+- ‘Iets’ in de terminal weergeven.'/ de print function
+- Keyboard invoer ‘opvangen’ van de gebruiker./ de input function
+- Tekstregel ‘afbreken’ (naar de volgende regel gaan)./ \n function die breekt de tekts zodat je naar de volgende regel kan gaan en genoeg witruimte hebt
+- Variabelen aanmaken./ antwoorden punten en aantal vragen in de begin van de code daar worden de Variabelen aangemaakt
+- Conditions./ de if en else statements dus als iets goed is word word de if statement uitgeveord waardoor de speler een punt krijgt en er goed word geprint in de terminal. anders als het antwoord fout is word de else statment uitgevoerd en daar word fout geprint. de if statement gaat alleen door als het antwoord klopt met de antwoord.lower als het niet klopt word de esle uitgevoerd
+- Casting./ float(10/aantal_vragen*punten voert de berkening uit op basis van de behaalde punten en aantal vragen
+- Afronden (met x aantal cijfers achter de komma)/ de round functie zorgt er voor dat het antwoord word afgerond en de 1 zorgt ervoor dat het anwtwoord 1 getal acher de komma is 
+- Iets naar ‘lowercase’ omvormen./ de antwoord.lower command antwoord is wat de persoon typt en de .lower command zorgt ervoor dat het lower case wordt
+- Het gebruik van een ‘logische OR’./ deze snap ik niet helemaal, ik denk dat het te maken heeft met de if en else en het antwoord of de code logisch is 

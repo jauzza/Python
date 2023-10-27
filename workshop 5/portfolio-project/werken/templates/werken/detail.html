@@ -1,0 +1,15 @@
+{% extends 'index.html' %}
+
+{% block content %}
+Details
+<br>
+<h1>{{ werk.id }}: {{ werk.title }}</h1>
+ <img src="{{ werk.icon.url }}"/><br>
+ <img src="{{ werk.image.url }}"/>
+<div>Datum: {{ werk.pub_date_pretty }}</div>
+<p>{{ werk.body }}</p>
+<div>Door: {{ werk.hunter.username }}</p>
+<div>Stemmen: {{ werk.votes_total }}</div>
+
+
+{% endblock %} 
